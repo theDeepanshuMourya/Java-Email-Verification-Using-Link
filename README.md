@@ -31,10 +31,14 @@ The active state will tell whether the user has clicked the verification link or
 # Screenshots
 ![registration](https://user-images.githubusercontent.com/32307505/46758368-49f4e580-ccea-11e8-9c51-c5bf2e5a3ce9.jpg)
 
+
 ![verify](https://user-images.githubusercontent.com/32307505/46758382-524d2080-ccea-11e8-8937-573fb190c64e.jpg)
+
 
 ![active-zero](https://user-images.githubusercontent.com/32307505/46758395-5ed17900-ccea-11e8-95dd-2a8196605103.jpg)
 
+
 ![login](https://user-images.githubusercontent.com/32307505/46758391-55e0a780-ccea-11e8-9028-cf4c0d9d8fee.jpg)
+
 
 ![active-one](https://user-images.githubusercontent.com/32307505/46758423-68f37780-ccea-11e8-983b-ceb739b6d883.jpg)
