@@ -21,7 +21,7 @@
       <div class="container">
         <h1>Welcome to Java Email Verification Project</h1>
         <p>It is a Java application created to generate verification links. It will send users an email requiring them to click a link to verify their email before their email is added to whatever you want to add it to.</p>
-        <a href="#" class="btn btn-primary">Read more</a>
+        <a href="https://github.com/theDeepanshuMourya/Java-Email-Verification-Using-Link" target="_blank" class="btn btn-primary">Read more</a>
       </div>
     </div>
 	
