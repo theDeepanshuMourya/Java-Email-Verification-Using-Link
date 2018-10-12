@@ -41,6 +41,10 @@ The active state will tell whether the user has clicked the verification link or
 
 
 
+![link](https://user-images.githubusercontent.com/32307505/46852854-fa153c00-ce19-11e8-8546-f92d4b218411.jpg)
+
+
+
 ![login](https://user-images.githubusercontent.com/32307505/46758391-55e0a780-ccea-11e8-9028-cf4c0d9d8fee.jpg)
 
 
